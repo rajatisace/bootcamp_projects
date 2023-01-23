@@ -13,6 +13,7 @@ We learn 10 sprints during 4 months program
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+    - [Global Video Games Sales](https://datastudio.google.com/u/0/reporting/b787791b-7abf-40b4-b45b-948a5fa96586/page/qSFDD) - Dashboard showing the global video games sales from 1983 to 2012 - `Looker Studio`
 
 Badges:
 - [Certified Professional Data Analyst](https://badgr.com/backpack/badges/63c92469f2a88028c26e1f17)
