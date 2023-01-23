@@ -1,2 +1,2 @@
 # bootcamp_projects
-Data science bootcamp batch 6
+Data science bootcamp with AdToy
