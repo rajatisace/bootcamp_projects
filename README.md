@@ -14,6 +14,10 @@ We learn 10 sprints during 4 months program
 - Essential Python for Data Analyst
 - Dashboard
     - [Global Video Games Sales](https://datastudio.google.com/u/0/reporting/b787791b-7abf-40b4-b45b-948a5fa96586/page/qSFDD) - Dashboard showing the global video games sales from 1983 to 2012 - `Looker Studio`
+    - [Sales report in Myanmar](https://public.tableau.com/app/profile/rajat.chawla/viz/SalesDashboard_16744227941030/SalesDashboard) - `Tableau public`
+    - [Netflix Dashboard](https://public.tableau.com/app/profile/rajat.chawla/viz/Netflixdashboard_16744002623450/Netflix) - Dashboard shows Netflix ingormation - `Tableau Public `
+    - [Covid Dashboard](https://public.tableau.com/app/profile/rajat.chawla/viz/CovidDashboard_16740639927440/Dashboard1#1) - `Tableau Public`
+    - [AirBnB Dashboard](https://public.tableau.com/app/profile/rajat.chawla/viz/AirBnBFullProject_16732356536090/Dashboard1) - `Tableau Public`
 
 Badges:
 - [Certified Professional Data Analyst](https://badgr.com/backpack/badges/63c92469f2a88028c26e1f17)
