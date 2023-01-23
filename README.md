@@ -5,7 +5,7 @@ We learn 10 sprints during 4 months program
 
 - Spreadsheets
 - SQL Database
-- R Programing
+- R Programming
 - Data Transformation
 - Data Visualization
 - Statistics
