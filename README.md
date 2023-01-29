@@ -29,6 +29,6 @@ Badges:
 
 ![GCC_badge_DA_1000x1000](https://user-images.githubusercontent.com/104781784/214042188-0dfab77f-c705-4adc-802d-b8533bd051e1.png)
 
-- [My Power BI Dashboard]
+- [My Power BI Dashboard](https://github.com/rajatisace/bootcamp_projects/blob/main/Dashboard/Data%20Career%20Breakdown.pbix)
 ![PowerBi](https://user-images.githubusercontent.com/104781784/215337264-a90025e9-f807-4139-a342-c37a4a29afd8.PNG)]
 
