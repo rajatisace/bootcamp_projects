@@ -17,7 +17,7 @@ We learn 10 sprints during 4 months program
 - Data Transformation
     - [NYC flights 2013 Analysis](https://github.com/rajatisace/bootcamp_projects/blob/main/R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) -Analyzing the 'nycflights13' using the 'dplyr' package in 'R'
 - Data Visualization
-    -[Diamonds Visualization](https://github.com/rajatisace/bootcamp_projects/blob/main/R/HW_Dataviz.pdf) -Creating charts to visualize the data queried using the 'ggplot' package in 'R'
+    - [Diamonds Visualization](https://github.com/rajatisace/bootcamp_projects/blob/main/R/HW_Dataviz.pdf) -Creating charts to visualize the data queried using the 'ggplot' package in 'R'
 - Statistics
 - Intro to `Classical` Machine Learning
 - Intro to Python
