@@ -4,10 +4,10 @@ Data science bootcamp with `AdToy`
 We learn 10 sprints during 4 months program
 
 - Spreadsheets
--[Convert Date](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Convert_Date.PNG) -Change Date in Thai Format to International Format
--[Dynamic Query](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Dynamic_Query.PNG) -Use dynamic query to filter information that need
--[Project ID Card](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Project_ID_Card_Parser.PNG) -Use regexextract function to extract data
--[VLOOKUP Sample](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Spreedsheets_VLOOKUP.PNG)-Use VLOOKUP function to combine table
+    - [Convert Date](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Convert_Date.PNG) -Change Date in Thai Format to International Format
+    - [Dynamic Query](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Dynamic_Query.PNG) -Use dynamic query to filter information that need
+    - [Project ID Card](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Project_ID_Card_Parser.PNG) -Use regexextract function to extract data
+    - [VLOOKUP Sample](https://github.com/rajatisace/bootcamp_projects/blob/main/SpreadSheets/Spreedsheets_VLOOKUP.PNG)-Use VLOOKUP function to combine table
 
 - SQL Database
 - R Programming
