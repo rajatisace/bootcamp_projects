@@ -18,6 +18,9 @@ We learn 10 sprints during 4 months program
     - [Analyzing NYC Public School Test Result Scores](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores) DataCamp Project use PostgreSQL to analyze school's score
     - Count unique values with `COUNT(DISTINCT)`
     - Combine `SUM()` and `COUNT()` to calculate in each row
+    -[When Was the Golden Age of Video Games?](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_)
+    - Use `HAVING()` to filter result on of `GROUP BY`
+    - `JOIN` and `LEFT JOIN` table
 - R Programming
 - Data Transformation
     - [NYC flights 2013 Analysis](https://github.com/rajatisace/bootcamp_projects/blob/main/R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) -Analyzing the 'nycflights13' using the 'dplyr' package in 'R'
