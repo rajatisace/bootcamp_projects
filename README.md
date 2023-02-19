@@ -12,12 +12,12 @@ We learn 10 sprints during 4 months program
 - SQL Database
     - [Restaurant Database](https://github.com/rajatisace/bootcamp_projects/blob/main/SQL/restaurant_owner.sql) -A small database of a restaurant containing 5 dimension tables and 1 fact table, and some SQL queries to analyze data
     - [Analyze International Debt Statistics](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/Analyze%20International%20Debt%20Statistics) -DataCamp Project use postgreSQL to Analyze country debt by using 
-     Aggregate data with `SUM()`,`MAX()`,`MIN()`      
-     Filter row using `WHERE`,`GROUP BY`
-     Use subquery in `WHERE`
+     - Aggregate data with `SUM()`,`MAX()`,`MIN()`      
+     - Filter row using `WHERE`,`GROUP BY`
+     - Use subquery in `WHERE`
     - [Analyzing NYC Public School Test Result Scores](https://github.com/rajatisace/bootcamp_projects/tree/main/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores) DataCamp Project use PostgreSQL to analyze school's score
-    Count unique values with `COUNT(DISTINCT)`
-    Combine `SUM()` and `COUNT()` to calculate in each row
+    - Count unique values with `COUNT(DISTINCT)`
+    - Combine `SUM()` and `COUNT()` to calculate in each row
 - R Programming
 - Data Transformation
     - [NYC flights 2013 Analysis](https://github.com/rajatisace/bootcamp_projects/blob/main/R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) -Analyzing the 'nycflights13' using the 'dplyr' package in 'R'
