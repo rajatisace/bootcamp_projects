@@ -56,6 +56,8 @@ Badges:
 My Training
 
    - [Microsoft Excel - Advanced Excel Formulas & Functions (9.5 Hours)](https://github.com/rajatisace/bootcamp_projects/blob/main/My%20training/Microstoft%20Excel%20-%20Ad.pdf)
+   - [Power BI A-Z: Hands-On Power BI Training For Data Science! (4.5 Hours)](https://github.com/rajatisace/bootcamp_projects/blob/main/My%20training/Bi.pdf)
+
 
 
 
