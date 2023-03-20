@@ -54,6 +54,8 @@ Badges:
 ![PowerBi](https://user-images.githubusercontent.com/104781784/215337264-a90025e9-f807-4139-a342-c37a4a29afd8.PNG)]
 
 My Training
-![image](https://user-images.githubusercontent.com/104781784/223363073-0f5daae1-7752-400c-87c8-05b8407b7cc6.png)
+
+   - [Microsoft Excel - Advanced Excel Formulas & Functions (9.5 Hours)](https://github.com/rajatisace/bootcamp_projects/blob/main/My%20training/Microstoft%20Excel%20-%20Ad.pdf)
+
 
 
